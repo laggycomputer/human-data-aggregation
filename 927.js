@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhuman_statistics_aggregation=self.webpackChunkhuman_statistics_aggregation||[]).push([[927],{927:(a,s,t)=>{a.exports=t.p+"2b3e1faf89f94a483539.png"}}]);
