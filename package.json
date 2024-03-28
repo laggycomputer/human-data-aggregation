@@ -8,6 +8,7 @@
   },
   "homepage": "http://laggycomputer.github.io/human-statistics-aggregation",
   "scripts": {
+    "build": "webpack",
     "deploy": "gh-pages -d dist"
   },
   "license": "GPL-3.0",
